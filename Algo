@@ -20,17 +20,17 @@ make note of time pizza will be ready if picking up
 thank team member
 end call
 if picking up pizza make sure you are dressed appropriately
-    if not dressed, do so
-    else leave for pizzeria
-    arrive at pizzzeria
-    walk inside or approach drive thru window to pay for and collect pizza
-    return to vehicle
-    return to origin
-    exit vehicle
-    lock vehicle
-    enter building
-    arrive at designated dining table/area
-    feast
+if not dressed, do so
+else leave for pizzeria
+arrive at pizzzeria
+walk inside or approach drive thru window to pay for and collect pizza
+return to vehicle
+return to origin
+exit vehicle
+lock vehicle
+enter building
+arrive at designated dining table/area
+feast
 
 if pizza getting delivered wait for pizza
 gather cash or method of payment to complete upon arrival

@@ -24,8 +24,12 @@ if picking up pizza make sure you are dressed appropriately
     else leave for pizzeria
     arrive at pizzzeria
     walk inside or approach drive thru window to pay for and collect pizza
-    return to car
+    return to vehicle
     return to origin
+    exit vehicle
+    lock vehicle
+    enter building
+    arrive at designated dining table/area
     feast
 
 if pizza getting delivered wait for pizza
@@ -37,4 +41,5 @@ collect pizza
 give driver payment for pizza and tip
 close door
 lock door
+make way to dining table/area
 feast

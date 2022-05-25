@@ -1,0 +1,49 @@
+Decide you want to order food
+Decide pizza is the food you want
+decide on pizzeria
+locate contact info
+get phone number
+decide which toppings to go on pizza
+decide when you want pizza
+decide pick up or delivery
+pick up phone
+enter phone number
+listen to automated system if giving instructions
+wait for pizzeria team member to pick up phone
+tell team member you would like to order a pizza pick up or delivery
+wait for team member to ask what you are ordering
+tell team member what kind of pizza you are ordering
+wait for team member to confirm order
+if team member ask for method of payment, provide
+else gather cash to pay when picking up or beign delivered
+make note of time pizza will be ready if picking up
+thank team member
+end call
+put phone down
+if picking up pizza make sure you are dressed appropriately
+if not dressed, do so
+else leave for pizzeria
+arrive at pizzzeria
+walk inside or approach drive thru window to pay for and collect pizza
+return to vehicle
+return to origin
+exit vehicle
+lock vehicle
+enter building
+arrive at designated dining table/area
+feast
+
+if pizza getting delivered wait for pizza
+gather cash or method of payment to complete upon arrival
+listen for doorbell or knock on door
+when there is an indication of someone being at the door
+ask who it is if still unconfirmed that it is the delivery driver
+collect pizza
+give driver payment for pizza and tip
+close door
+lock door
+make way to dining table/area
+feast
+Leave a review
+
+test1 for branches from "git checkout -b test1"
